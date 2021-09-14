@@ -19,6 +19,8 @@ OECD data- Government Debt, 2017
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7255387"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7255764"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Critique by Design 
 
 
