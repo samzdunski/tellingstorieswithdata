@@ -17,6 +17,7 @@ OECD data- Government Debt, 2017
 
 <iframe src="https://data.oecd.org/chart/6sDW" width="850" height="638" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6sDW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7255387"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Critique by Design 
 
