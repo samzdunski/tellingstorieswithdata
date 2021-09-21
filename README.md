@@ -34,7 +34,7 @@ When it comes to the data listed in the first chart under the Data Visualization
 #### My Chosen Data Visualization 
 <iframe src="https://ourworldindata.org/grapher/plastic-waste-per-capita?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-I knew I wanted to focus on plastic pollution, and this map shows which countries are, per capita, the highest polluting countries. This map doesn't truly have any major faults. It was originally created by ourworldindata.org, which is nonpartisan. While plastic pollution is universally known as a bad thing, the urgency of the problem is disputed. The neutral coloring does not portray a strong story. This works for its original audience, but in my change I'm looking to give the reader ideas they can come away with. 
+(I'm reworking the Map part of this visualization). I knew I wanted to focus on plastic pollution, and this map shows which countries are, per capita, the highest polluting countries. This map doesn't truly have any major faults. It was originally created by ourworldindata.org, which is nonpartisan. While plastic pollution is universally known as a bad thing, the urgency of the problem is disputed. The neutral coloring does not portray a strong story. This works for its original audience, but in my change I'm looking to give the reader ideas they can come away with. 
 
 #### My Wireframe
 
