@@ -61,4 +61,4 @@ My final visualization shrinks down on what the original does in order to be abl
 
 ## Final Project
 
-![My Final Project Part 1 Work is Here](final_project_samzdunski.md)
+[My Final Project Part 1 Work is Here](final_project_samzdunski.md)
