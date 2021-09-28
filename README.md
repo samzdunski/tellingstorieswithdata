@@ -60,3 +60,5 @@ My second subject, the retiree, had a hard time understanding the wireframe. It 
 My final visualization shrinks down on what the original does in order to be able to tell a story with it. While you can still gather the same data from the first picture, I wanted to shrink down the amount of countries to portray the story- that rich countries are worsening the issue of plastic pollution at higher rates than poorer countries. I had taken out many countries (as there are a lot of countries they collected data for!) and kept just enough for the audience to get the message. I transitioned to a brown gradient, as this gives the energy of "dirty to less-dirty" rather than red to blue, which gives the energy of "hot to cold". This final visualization has an effective title, smart color choice, and shrinks the scope enough to allow the audience to get the main idea quickly! 
 
 ## Final Project
+
+![My Final Project Part 1 Work is Here](final_project_samzdunski.md)
