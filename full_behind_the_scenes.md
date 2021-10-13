@@ -46,3 +46,4 @@ I focused on a few things that weren't suggested in my feedback sessions. Simila
 
 Lastly, I added a couple graphs that I thought helped tie things in. The first graph I added was "Global Plastic Production by Year". I had this graph (somewhat) in an infographic that I also kept in the shorthand, the one that speaks on sperm counts, but I thought that a separate graph helped add to the "drowning in plastic" story I was trying to sell. It's an intimidating graph to look at! Lastly, I included a graph on what countries the majority of the mismanaged plastic waste come from, to draw in a better understanding of potential actors and systems that could be the best intervention points for fighting the plastic crisis. 
 
+[Back to Home](README.md)
