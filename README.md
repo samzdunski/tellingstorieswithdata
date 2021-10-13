@@ -16,7 +16,7 @@ I am a 2nd year MSPPM student who is very excited to learn more in this class! I
 [Link](datavisualization1.md)
 
 ## Critique by Design 
-[Link](critiquebydesign)
+[Link](critiquebydesign.md)
 
 ## Final Project
 
