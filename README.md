@@ -61,6 +61,6 @@ My final visualization shrinks down on what the original does in order to be abl
 
 ## Final Project
 
-[Final Project Part 1](final_project_samzdunski.md)
+[Plastic Pollution - Final Project on Shorthand](https://carnegiemellon.shorthandstories.com/plastic-pollution-zdunski/index.html)
 
-[Final Project Part 2](final_project2.md)
+[Final "Behind the Scenes" Explaining My Steps](full_behind_the_scenes.md)
