@@ -2,13 +2,10 @@
 
 ## About Me
 
-I am a 2nd year MSPPM student who is very excited to learn more in this class! I use he/him pronouns. I'm not used to this style of schooling. I'm used to more policy focused courses and work, but I certainly need to branch out. I never thought I'd be the type of person who needs to make a GitHub. I'm also from Erie, PA. I love the city I'm from, and would suggest anyone in the Pittsburgh area should go up and visit for a day! 
+I am a 2nd year MSPPM student at Carnegie Mellon University and I use he/him pronouns. This work is from my "Telling Stories with Data" class, where I learned how to create compelling naratives using data visualizations. I enjoy going through these projects because you can see how much I've grown. My first visualizations were rough, but I'm really content with my final shorthand and the narrative it had built. This class taught me a lot about what gains the human attention, how to hold it, and to make sure your audience is with you the whole way. I'm now confident I can build compelling data visualizations in the future! 
 
-## What I Hope to Learn
+Feel free to look at my progress. Don't judge too hard on the first visualization! 
 
-- How to frame data in the best way to tell the story I need to 
-- The best use of colors possible
-- How to use Tableau and other graphic-making platforms
 
 # Portfolio
 
